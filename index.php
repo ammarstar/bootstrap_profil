@@ -42,12 +42,34 @@
         <hr>
         <div class="row">
           <div class="col-md-6">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Hello semuanya, bagaima akabarnya semoga dalam keadaan sehat semuanya AAAMIIINNN.
+            <br>Ini merupakan website milik saya pribadi yang merupakan seorang lulusan dari kampus universitas
+            dr.soetomo surabaya dengan jurusan Teknik Informatika. Saya senang dengan pemrograman khususnya
+            ialah pemrograman website sehingga saya mempelajari bahasa pemrograman yang menunjang untuk web Development
+            seperti bahasa pemrograman HTML, CSS, JavaScript, PHP, database(MySql), Framework(Bootstrap, laravel),
+            public repository(GitHub), dll.
+            </p>
+            <p>Akan tetapi saya belum pernah bekerja sebagai pengembang web secara langsung, dan jejak karir
+              saya diawali dengan menjadi guru bahasa inggris di lembaga kurus bernama AILC, kemudian membuka usaha
+              berjualan sabun cuci pakaian cair, lalu kemudian menjadi penjaga warnet yang bernama fahmi warnet,
+              lalu menjadi guru komputer di SMP IHyaussalafiyah, serta kemudian menjadi guru bidang studi sekaligus
+              wali kelas di SD Bahreisy.
+
+            </p>
+
           </div>
           <div class="col-md-6">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Saya memang belum pernah terjun langsung(bekerja) sebagai pengembang website akan tetapi
+              saya telah beberapa kali membuat website, mulai dari: website data diri, website informasi harian,
+              webiste sekolah, website e-commerce,dll.
+            </p>
+            <p>Ketika masih dikampus saya pernah mengikuti lomba pengikut garis, uji kompetensi website, pelatihan Jaringan & LAN, dll.
+              Serta ketika penjurusan saya mengambil penjurusan perangkat keras(mikrokontroller), sehingga judul skripsi
+              yang telah saya tempuh yaitu "Penunjuk Arah Untuk Tunanetra Berbasis MultiUltrasonik".
+              <br>
+              saya merupakan orang yang gemar akan tantangan, Gemar/ tertarik untuk mecoba dan mempelajari sesuatu yang baru
+              serta yang dapat bekerja dalam tim.
+            </p>
           </div>
         </div>
       </div>
@@ -81,19 +103,25 @@
         </div>
         <br>
         <div class="progress" style="height:50px">
-          <div class="progress-bar bg-success" style="width:85%">
+          <div class="progress-bar" style="width:85%">
             CSS
           </div>
         </div>
         <br>
         <div class="progress" style="height:50px">
-          <div class="progress-bar bg-warning" style="width:87%">
+          <div class="progress-bar" style="width:87%">
             PHP
           </div>
         </div>
         <br>
+        <div class="progress " style="height:50px">
+          <div class="progress-bar bg-warning" style="width:60%">
+            JavaScript
+          </div>
+        </div>
+        <br>
         <div class="progress" style="height:50px">
-          <div class="progress-bar bg-danger" style="width:90%">
+          <div class="progress-bar" style="width:90%">
             GITHUB
           </div>
         </div>
